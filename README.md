@@ -1,6 +1,6 @@
 Hello, my name is Rushil Gupta and this is my web development project which provides household services.
 
-In order to smoothly run my application, download it and open it in wsl-ubuntu (if using windows) using a code editor such as VS code. 
+In order to smoothly run my application, download the HouseFix folder and open it in wsl-ubuntu (if using windows) using a code editor such as VS code. 
 Create a virtual environment using command 'python -m venv .venv' in the terminal.
 Once the environment is created, activate it using the command 'source .venv/bin/activate'
 Download all dependencies listed in req.txt using the command 'pip install -r req.txt' in the terminal.
